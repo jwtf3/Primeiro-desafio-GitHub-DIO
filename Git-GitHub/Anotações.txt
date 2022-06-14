@@ -1,0 +1,8 @@
+Download Git: https://git-scm.com/downloads
+
+Alguns comandos a serem usados no terminal
+	-ls: lista todas as pastas do diretorio
+criando pasta
+	-mkdir + nome da pasta a criar
+deletando pasta
+	-Rmdir + nome da pasta  + /S  /Q(deleta a pasta toda)
